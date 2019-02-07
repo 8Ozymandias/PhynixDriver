@@ -90,6 +90,7 @@
             android:background="@drawable/oval_button"
             android:gravity="center_vertical|center_horizontal"
             android:text="Login"
+            android:onClick="Login_Dash"
             android:textColor="@android:color/white"
             android:textFontWeight="100dp"
             android:textSize="18sp"

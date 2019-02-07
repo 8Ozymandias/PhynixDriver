@@ -22,4 +22,9 @@ public class LoginActivity extends AppCompatActivity {
         Intent i = new Intent(LoginActivity.this, RegisterActivity.class);
         LoginActivity.this.startActivity(i);
     }
+
+    public void Login_Dash(View view){
+        Intent i = new Intent(LoginActivity.this, DashboardActivity.class);
+        LoginActivity.this.startActivity(i);
+    }
 }

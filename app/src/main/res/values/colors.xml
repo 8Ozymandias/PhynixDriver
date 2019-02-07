@@ -6,6 +6,9 @@
     <color name="colorBlack">#d2ff8c00</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="brightOrange">#FF1800</color>
-    <color name="lightOrange">#FF7300</color>
+    <color name="lightOrange">#fd7301</color>
     <color name="darkgray">#212121</color>
+    <color name="darkbluegray">#263238</color>
+    <color name="lightbluegray">#455A64</color>
+    <color name="lightgray">#BDBDBD</color>
 </resources>
