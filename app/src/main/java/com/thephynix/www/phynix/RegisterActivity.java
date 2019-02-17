@@ -1,4 +1,4 @@
-package com.ozymandias.phynixdriver;
+package com.thephynix.www.phynix;
 
 import android.content.Intent;
 import android.os.Bundle;
